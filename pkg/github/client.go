@@ -1,4 +1,4 @@
-package goGitGiteaGithub
+package ggGithub
 
 import (
 	"fmt"

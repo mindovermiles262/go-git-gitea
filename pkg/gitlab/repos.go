@@ -1,4 +1,4 @@
-package goGitGiteaGitlab
+package ggGitlab
 
 import "fmt"
 
